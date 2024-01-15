@@ -20,3 +20,7 @@ Browse the directory of Community Builders.
 ## Content
 
 - [AWS](#aws)
+
+## AWS
+
+- :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
