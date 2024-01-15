@@ -12,7 +12,7 @@ Want to learn from existing Community Builders? Check out their content on dev.t
 
 Browse the directory of Community Builders.
 
-## - [Apply Now]_(https://bit.ly/3RYxAq7)
+## - [Apply Now](#https://bit.ly/3RYxAq7)
 
 ## Get more imformation   https://aws.amazon.com/developer/community/community-builders/
 
