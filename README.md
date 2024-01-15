@@ -19,7 +19,4 @@ Get more imformation   https://aws.amazon.com/developer/community/community-buil
 
 Content
 
-⬆ Back to Index
-
-AWS
-📚 Learn AWS with Training and Certification
+https://aws.amazon.com/training/
